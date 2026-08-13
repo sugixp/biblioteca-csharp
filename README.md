@@ -36,13 +36,5 @@ Requer o [.NET SDK 10](https://dotnet.microsoft.com/download) instalado.
 
 - Trocar `RepositorioEmMemoria<T>` por uma implementação com SQLite
   (via `Microsoft.Data.Sqlite` ou Entity Framework Core), sem alterar
-  `BibliotecaService` nem `Program.cs` — essa é a vantagem de programar
-  contra a interface `IRepositorio<T>`.
+  `BibliotecaService` nem `Program.cs` —
 - Adicionar testes unitários com xUnit para `BibliotecaService`.
-- Comparar com a versão em Python (`task-manager`): quais diferenças de
-  tipagem, estrutura e verbosidade você notou?
-
-## Comparação com a versão em Python
-
-_(preencha aqui depois de terminar — o que foi mais fácil/difícil em C#
-comparado ao seu `task-manager` em Python?)_
