@@ -30,7 +30,7 @@ cd BibliotecaConsole
 dotnet run
 ```
 
-Requer o [.NET SDK 8](https://dotnet.microsoft.com/download) instalado.
+Requer o [.NET SDK 10](https://dotnet.microsoft.com/download) instalado.
 
 ## Próximos passos possíveis
 
@@ -44,5 +44,5 @@ Requer o [.NET SDK 8](https://dotnet.microsoft.com/download) instalado.
 
 ## Comparação com a versão em Python
 
-*(preencha aqui depois de terminar — o que foi mais fácil/difícil em C#
-comparado ao seu `task-manager` em Python?)*
+_(preencha aqui depois de terminar — o que foi mais fácil/difícil em C#
+comparado ao seu `task-manager` em Python?)_
