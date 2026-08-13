@@ -1,0 +1,14 @@
+C:\Users\sugiz\documents\bibliotecaconsole\bin\Debug\net10.0\BibliotecaConsole.exe
+C:\Users\sugiz\documents\bibliotecaconsole\bin\Debug\net10.0\BibliotecaConsole.deps.json
+C:\Users\sugiz\documents\bibliotecaconsole\bin\Debug\net10.0\BibliotecaConsole.runtimeconfig.json
+C:\Users\sugiz\documents\bibliotecaconsole\bin\Debug\net10.0\BibliotecaConsole.dll
+C:\Users\sugiz\documents\bibliotecaconsole\bin\Debug\net10.0\BibliotecaConsole.pdb
+C:\Users\sugiz\documents\bibliotecaconsole\obj\Debug\net10.0\BibliotecaConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sugiz\documents\bibliotecaconsole\obj\Debug\net10.0\BibliotecaConsole.AssemblyInfoInputs.cache
+C:\Users\sugiz\documents\bibliotecaconsole\obj\Debug\net10.0\BibliotecaConsole.AssemblyInfo.cs
+C:\Users\sugiz\documents\bibliotecaconsole\obj\Debug\net10.0\BibliotecaConsole.csproj.CoreCompileInputs.cache
+C:\Users\sugiz\documents\bibliotecaconsole\obj\Debug\net10.0\BibliotecaConsole.dll
+C:\Users\sugiz\documents\bibliotecaconsole\obj\Debug\net10.0\refint\BibliotecaConsole.dll
+C:\Users\sugiz\documents\bibliotecaconsole\obj\Debug\net10.0\BibliotecaConsole.pdb
+C:\Users\sugiz\documents\bibliotecaconsole\obj\Debug\net10.0\BibliotecaConsole.genruntimeconfig.cache
+C:\Users\sugiz\documents\bibliotecaconsole\obj\Debug\net10.0\ref\BibliotecaConsole.dll
